@@ -2,7 +2,7 @@
 
 **Live:** https://suvashgiri.github.io/european-logistics-radar/
 
-Independent student project by Suvash Chantin-Giri, built with an AI assistant.
+Independent student project by Suvash Giri, built with an AI assistant.
 Not affiliated with or endorsed by EQT. Public sources only.
 
 ## What it does
